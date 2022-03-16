@@ -1,0 +1,20 @@
+.tabela {
+    background-color: white;
+    color: white;
+}
+
+.row {
+    background-color: #424250;
+    padding: 10px;
+}
+
+.cabecalho-moda {
+    background-color: #BB86FC;
+    padding: 10px;
+}
+
+.cabecalho-casa{
+    background-color: #00C4B4;
+    padding: 10px;
+}
+
